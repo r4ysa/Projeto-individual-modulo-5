@@ -32,19 +32,16 @@ $ npm start
 
 Abaixo consta como funciona o projeto desenvolvido.<br><br>
 
-<b>Menu Inicial:</b><br>
+<b>Menu Inicial com as opções para o usuário:</b><br>
 ![npm-start-menu-inicial](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/menu.png)
 <br><br>
-<b>Exibir lista de propriedades CSS:</b><br>
+<b>Exibir lista de propriedades CSS (em ordem alfabética):</b><br>
 ![exibir-propriedades](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/exibir.png)
 <br><br>        
-<b>Adicionar propriedade CSS na lista:</b><br>
-![adicionar-itens-css](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/adicionar.png)
-<br><br>
-<b>Adicionar propriedade CSS que já esteja na lista: <br>
-Note que ao adicionar um item que já esteja na lista, aparece um erro. Ao digitar "sair" aparece uma solicitação para salvar a lista num arquivo que será no formato JSON.
+<b>Adicionar propriedade CSS na lista:
+* Note que ao adicionar um item que já esteja na lista, aparece um erro. Ao digitar "sair" aparece uma solicitação para salvar a lista num arquivo que será no formato JSON.
 </b><br>
-![adicionar-propriedade-repetida](https://user-images.githubusercontent.com/113844035/215296839-c4115af5-ee3e-4a49-8db8-7d4b28d6a6be.png)
+![adicionar-itens-css](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/adicionar.png)
 <br><br>
 <b>Remover propriedade CSS da lista:</b><br>
 ![remover-itens](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/remover.png)
