@@ -39,7 +39,7 @@ Abaixo consta como funciona o projeto desenvolvido.<br><br>
 ![exibir-propriedades](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/exibir.png)
 <br><br>        
 <b>Adicionar propriedade CSS na lista:
-Note que ao adicionar um item que já esteja na lista, aparece um erro. Ao digitar "sair" aparece uma solicitação para salvar a lista num arquivo que será no formato JSON.
+</br>Note que ao adicionar um item que já esteja na lista, aparece um erro. Ao digitar "sair" aparece uma solicitação para salvar a lista num arquivo que será no formato JSON.
 </b><br>
 ![adicionar-itens-css](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/adicionar.png)
 <br><br>
@@ -49,6 +49,6 @@ Note que ao adicionar um item que já esteja na lista, aparece um erro. Ao digit
 <b>Remover propriedade CSS que já foi removida:</b><br>
 ![remover-itens2](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/a1ae053d92497be1e14dd02c93696a57a57ec78f/src/remover2.png)
 <br><br>
-<b>Sair da aplicação:</b><br>[
+<b>Sair da aplicação:</b><br>
 ![sair](https://github.com/r4ysa/Projeto-individual-modulo-5/blob/76e37ba3e97cf0a57a7ddbcee684cf1e631313d5/src/sair.png)
 <br><br>
