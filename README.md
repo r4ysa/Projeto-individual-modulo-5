@@ -9,8 +9,13 @@
 <li>npm</li>
 </ul>
 
-# 🔧 Configurações:
+## 🔧 Configurações:
+
+Para executar este projeto, é necessário realizar as seguintes instalações localmente usando npm:
+
+```
 $ npm init -y
 $ npm install inquirer
 $ npm install chalk
 $ npm start
+```
